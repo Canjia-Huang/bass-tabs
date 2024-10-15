@@ -39,4 +39,8 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 5. ハミダシモノ  
 6. バニラ  
 7. タルヒ  
+<<<<<<< HEAD
 8. alive  
+=======
+8. alive  
+>>>>>>> 4f23cf64a30a47c5027ed6c7142704c68acd5efb
