@@ -25,13 +25,13 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 - presence - 楠木ともり
 - シンゲツ - 楠木ともり
 ## :heart_eyes: 楠木ともり
-<img align="left" src="_pic/ABSENCE.png"/>
+<img align="left" src="pic/ABSENCE.png"/>
 1. 僕の見る世界、君の見る世界  
 2. 眺めの空  
 3. よりみち    
 4. narrow  
 5. それを僕は強さと呼びたい  
-<img align="left" src="_pic/PRESENCE.png"/>
+<img align="left" src="pic/PRESENCE.png"/>
 1. アカトキ  
 2. もうひとくち  
 3. ロマンロン  
