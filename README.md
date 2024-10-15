@@ -23,7 +23,7 @@ Sing!Shine!Smile! - Liella!
 音色の彼方 - 北宇治四重奏  
 おはよう、またあした - 放課後ティータイム  
 ## :heart_eyes: 楠木ともり
-<img align="left" src="_pic/ABSENCE.jpg"/>
+<img align="left" src="_pic/ABSENCE.png"/>
 - 僕の見る世界、君の見る世界
 - 眺めの空
 - よりみち
