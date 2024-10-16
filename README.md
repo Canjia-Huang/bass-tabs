@@ -4,7 +4,7 @@ These tabs have been carefully organized and formatted by me to enhance readabil
 The tabs that I have personally transcribed include the original extracted bass audio, so if you are uncertain about any of the notes, you can cross-reference the audio for verification.  
 
 I will be providing updates on the progress of my transcription work.  
-If there are any other songs you are interested in, please let me know in the issues section, and I will consider transcribing them, but cannot guarantee completion :(  
+If there are any other songs you are interested in, please let me know in the issues section, and I will consider transcribing them, but cannot guarantee completion :sneezing_face:.  
 Due to my personal preferences, the majority of these tabs are related to J-pop, Britpop songs, or anime songs.
 
 If you utilize the tabs I have personally transcribed to perform and upload to public platforms, I would be most appreciative if you could provide proper attribution and cite me as the source :kissing_heart:.  
@@ -100,10 +100,10 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 [**結束バンド**](https://music.apple.com/cn/album/%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89/1657318546)
 1. [Distortion!!](tabs/kessoku%20band/Distortion!!.gp)[ :musical_note:](https://music.apple.com/cn/album/distortion/1657318546?i=1657318564)
 2. [あのバンド](tabs/kessoku%20band/あのバンド.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%81%82%E3%81%AE%E3%83%90%E3%83%B3%E3%83%89/1657318546?i=1657318780)
-	[あのバンド 路上ライブ](tabs/kessoku%20band/あのバンド%20路上ライブ.gp)
+2.1 [あのバンド 路上ライブ](tabs/kessoku%20band/あのバンド%20路上ライブ.gp)
 3. [カラカラ](tabs/kessoku%20band/カラカラ.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%82%AB%E3%83%A9%E3%82%AB%E3%83%A9/1657318546?i=1657318783)[ :movie_camera:](https://www.bilibili.com/video/BV13J4m1W7bj/)
 4. [なにが悪い](tabs/kessoku%20band/なにが悪い.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%81%AA%E3%81%AB%E3%81%8C%E6%82%AA%E3%81%84/1657318546?i=1657318881)
-	[なにが悪い (short ver.)](tabs/kessoku_band/なにが悪い%20(short%20ver.).gp)[ :musical_note:](https://www.youtube.com/watch?v=3ijkvUYwJhU)[ :movie_camera:](https://www.bilibili.com/video/BV1oP4y1Q7Bj/)
+4.1 [なにが悪い (short ver.)](tabs/kessoku_band/なにが悪い%20(short%20ver.).gp)[ :musical_note:](https://www.youtube.com/watch?v=3ijkvUYwJhU)[ :movie_camera:](https://www.bilibili.com/video/BV1oP4y1Q7Bj/)
 5. [忘れてやらない](tabs/kessoku%20band/忘れてやらない.gp)[ :musical_note:](https://music.apple.com/cn/album/%E5%BF%98%E3%82%8C%E3%81%A6%E3%82%84%E3%82%89%E3%81%AA%E3%81%84/1657318546?i=1657318882)[ :movie_camera:](https://www.bilibili.com/video/BV1sX4y1q7bT/)
 6. [星座になれたら](tabs/kessoku%20band/星座になれたら.gp)[ :musical_note:](https://music.apple.com/cn/album/%E6%98%9F%E5%BA%A7%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%82%89/1657318546?i=1657318884)
 7. [転がる岩、君に朝が降る](tabs/kessoku%20band/転がる岩、君に朝が降る.gp)[ :musical_note:](https://music.apple.com/cn/album/%E8%BB%A2%E3%81%8C%E3%82%8B%E5%B2%A9-%E5%90%9B%E3%81%AB%E6%9C%9D%E3%81%8C%E9%99%8D%E3%82%8B/1657318546?i=1657318890)[ :movie_camera:](https://www.bilibili.com/video/BV1aR4y1U7L2/)
