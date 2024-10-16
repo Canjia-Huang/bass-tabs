@@ -26,8 +26,12 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 - シンゲツ - 楠木ともり (...)  
 
 ## :drooling_face: [楠木ともり](https://music.apple.com/cn/artist/%E6%A5%A0%E6%9C%A8%E3%81%A8%E3%82%82%E3%82%8A/1520358732)
+
+
 ### [PRESENCE](https://music.apple.com/cn/album/presence/1682199460)
-<img title="PRESENCE" src="pic/PRESENCE.png" height="286" align="left" />
+<table><tr>
+<td><img title="PRESENCE" src="pic/PRESENCE.png" height="297" align="left" /></td>
+<td>
 
 1. [アカトキ](https://music.apple.com/cn/album/%E3%82%A2%E3%82%AB%E3%83%88%E3%82%AD/1682199460?i=1682199737)
 2. [もうひとくち](https://music.apple.com/cn/album/%E3%82%82%E3%81%86%E3%81%B2%E3%81%A8%E3%81%8F%E3%81%A1/1682199460?i=1682199738)
@@ -37,11 +41,7 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 6. [バニラ](https://music.apple.com/cn/album/%E3%83%90%E3%83%8B%E3%83%A9/1682199460?i=1682199753)
 7. [タルヒ](https://music.apple.com/cn/album/%E3%82%BF%E3%83%AB%E3%83%92/1682199460?i=1682199761)
 8. [alive](https://music.apple.com/cn/album/alive/1682199460?i=1682199978)
-9. <br/>
-10. <br/>
-11. <br/>
-
-<p>
+</tr></table>
 
 ### [ABSENCE](https://music.apple.com/cn/album/absence/1682197773)
 <div align=center>
