@@ -75,3 +75,32 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 </tr>
 
 </table>
+
+## [kessoku band](https://music.apple.com/cn/artist/kessoku-band/1646020674) :star:
+<table>
+<tr>
+<td><img title="結束バンド" src="pic/結束バンド.png" height="300"/></td>
+<td>
+
+[**結束バンド**](https://music.apple.com/cn/album/%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89/1657318546)
+1. [Distortion!!](tabs/kessoku%20band/Distortion!!.gp)[ :musical_note:](https://music.apple.com/cn/album/distortion/1657318546?i=1657318564)
+2. [あのバンド](tabs/kessoku%20band/あのバンド.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%81%82%E3%81%AE%E3%83%90%E3%83%B3%E3%83%89/1657318546?i=1657318780)
+	[あのバンド 路上ライブ](tabs/kessoku%20band/あのバンド%20路上ライブ.gp)
+3. [カラカラ](tabs/kessoku%20band/カラカラ.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%82%AB%E3%83%A9%E3%82%AB%E3%83%A9/1657318546?i=1657318783)[ :movie_camera:](https://www.bilibili.com/video/BV13J4m1W7bj/)
+4. [なにが悪い](tabs/kessoku%20band/なにが悪い.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%81%AA%E3%81%AB%E3%81%8C%E6%82%AA%E3%81%84/1657318546?i=1657318881)
+	[なにが悪い (short ver.)](tabs/kessoku_band/なにが悪い%20(short%20ver.).gp)[ :musical_note:](https://www.youtube.com/watch?v=3ijkvUYwJhU)[ :movie_camera:](https://www.bilibili.com/video/BV1oP4y1Q7Bj/)
+5. [忘れてやらない](tabs/kessoku%20band/忘れてやらない.gp)[ :musical_note:](https://music.apple.com/cn/album/%E5%BF%98%E3%82%8C%E3%81%A6%E3%82%84%E3%82%89%E3%81%AA%E3%81%84/1657318546?i=1657318882)[ :movie_camera:](https://www.bilibili.com/video/BV1sX4y1q7bT/)
+6. [星座になれたら](tabs/kessoku%20band/星座になれたら.gp)[ :musical_note:](https://music.apple.com/cn/album/%E6%98%9F%E5%BA%A7%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%82%89/1657318546?i=1657318884)
+7. [転がる岩、君に朝が降る](tabs/kessoku%20band/転がる岩、君に朝が降る.gp)[ :musical_note:](https://music.apple.com/cn/album/%E8%BB%A2%E3%81%8C%E3%82%8B%E5%B2%A9-%E5%90%9B%E3%81%AB%E6%9C%9D%E3%81%8C%E9%99%8D%E3%82%8B/1657318546?i=1657318890)[ :movie_camera:](https://www.bilibili.com/video/BV1aR4y1U7L2/)
+</td>
+</tr>
+
+<tr>
+<td><img title="光の中へ - EP" src="pic/光の中へ - EP.png" height="300"/></td>
+<td>
+
+[**光の中へ - EP**](https://music.apple.com/cn/album/%E5%85%89%E3%81%AE%E4%B8%AD%E3%81%B8-ep/1685194936)
+1. [青い春と西の空](tabs/kessoku%20band/青い春と西の空.gp)[ :musical_note:](https://music.apple.com/cn/album/%E9%9D%92%E3%81%84%E6%98%A5%E3%81%A8%E8%A5%BF%E3%81%AE%E7%A9%BA/1685194936?i=1685194942)[ :movie_camera:](https://www.bilibili.com/video/BV1ok4y1g7L9/)
+</td>
+</tr>
+</table>
