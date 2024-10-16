@@ -25,14 +25,22 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 - presence - 楠木ともり (...)  
 - シンゲツ - 楠木ともり (...)  
 ## :heart_eyes: 楠木ともり
-<img align="left" src="pic/ABSENCE.png"/>
-- 僕の見る世界、君の見る世界  
-- 眺めの空  
-- よりみち    
-- narrow  
-- それを僕は強さと呼びたい  
+### ABSENCE
+<img align="left" height="300" title="ABSENCE" src="pic/ABSENCE.png">
+</img>
 
-<img align="left" src="pic/PRESENCE.png"/>
+- 僕の見る世界、君の見る世界\
+- 眺めの空\
+- よりみち 
+- narrow  
+- それを僕は強さと呼びたい
+<br/>
+<br/>
+<br/>
+<br/>
+### PRESENCE
+<img align="left" height="300" title="PRESENCE" src="pic/PRESENCE.png"/>
+
 - アカトキ  
 - もうひとくち  
 - ロマンロン  
@@ -40,8 +48,26 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 - ハミダシモノ  
 - バニラ  
 - タルヒ  
--  alive  
+- alive  
+<br/>
+<br/>
+### 眠れない (feat. 楠木ともり) - Single
+<img align="left" height="300" title="眠れない (feat. 楠木ともり) - Single" src="pic/眠れない (feat. 楠木ともり) - Single.png"/>
 
-<img align="left" src="pic/眠れない (feat. 楠木ともり) - Single.png"/>
+- 眠れない (feat. 楠木ともり)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+### ハンドメイド流星雨(皐月ソラの場合) - Single
+<img align="left" height="300" title="ハンドメイド流星雨(皐月ソラの場合) - Single" src="pic/ハンドメイド流星雨(皐月ソラの場合) - Single.png"/>
 
-<img align="left" src="pic/ハンドメイド流星雨(皐月ソラの場合) - Single.png"/>
+- ハンドメイド流星雨(皐月ソラの場合)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
