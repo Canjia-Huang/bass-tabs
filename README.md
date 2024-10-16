@@ -31,6 +31,7 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 3. よりみち    
 4. narrow  
 5. それを僕は強さと呼びたい  
+
 <img align="left" src="pic/PRESENCE.png"/>
 1. アカトキ  
 2. もうひとくち  
@@ -40,5 +41,7 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 6. バニラ  
 7. タルヒ  
 8. alive  
+
 <img align="left" src="pic/眠れない (feat. 楠木ともり) - Single.png"/>
+
 <img align="left" src="pic/ハンドメイド流星雨(皐月ソラの場合) - Single.png"/>
