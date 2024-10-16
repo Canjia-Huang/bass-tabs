@@ -17,7 +17,7 @@ I hope these tabs will be helpful to you.
 Simply enjoy the music!
 # Usage
 These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](https://www.guitar-pro.com/) (version 8.0 or a later version) software.
-# Tabs content
+# Tab Contents
 ## Programming :sob:
 - 青春謳歌 - 山根绮 · 羊宫妃那 (20241015)  
 - Sing!Shine!Smile! - Liella! (...)  
@@ -76,6 +76,21 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 
 </table>
 
+## [MyGO!!!!!](https://music.apple.com/cn/artist/mygo/1653702916) :star:
+<table>
+<tr>
+<td><img title="迷跡波" src="pic/迷跡波.png" height="300"/></td>
+<td>
+
+[**迷跡波**](https://music.apple.com/cn/album/%E8%BF%B7%E8%B7%A1%E6%B3%A2/1711148469)
+1. [影色舞](tabs/MyGO!!!!!/影色舞.gp)[ :musical_note:](https://music.apple.com/cn/album/%E5%BD%B1%E8%89%B2%E8%88%9E/1711148469?i=1711148473)[ :movie_camera:](https://www.bilibili.com/video/BV1DM41197cG/)
+2. [春日影 (MyGO!!!!! ver.)](tabs/MyGO!!!!!/春日影%20(MyGO!!!!!%20ver.).gp)[ :musical_note:](https://music.apple.com/cn/album/%E6%98%A5%E6%97%A5%E5%BD%B1-mygo-ver/1711148469?i=1711148537)[ :movie_camera:](https://www.bilibili.com/video/BV1cz4y1j7UH/)
+3. [詩超絆](tabs/MyGO!!!!!/詩超絆.gp)[ :musical_note:](https://music.apple.com/cn/album/%E8%A9%A9%E8%B6%85%E7%B5%86/1711148469?i=1711148538)[ :movie_camera:](https://www.bilibili.com/video/BV1Mm411B7CJ/)
+4. [栞](tabs/MyGO!!!!!/栞.gp)[ :musical_note:](https://music.apple.com/cn/album/%E6%A0%9E/1711148469?i=1711148542)[ :movie_camera:](https://www.bilibili.com/video/BV1L5411C7bz/)
+</td>
+</tr>
+</table>
+
 ## [kessoku band](https://music.apple.com/cn/artist/kessoku-band/1646020674) :star:
 <table>
 <tr>
@@ -104,3 +119,4 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 </td>
 </tr>
 </table>
+
