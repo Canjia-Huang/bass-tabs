@@ -26,6 +26,7 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 - シンゲツ - 楠木ともり (...)  
 ## :drooling_face: [楠木ともり](https://music.apple.com/cn/artist/%E6%A5%A0%E6%9C%A8%E3%81%A8%E3%82%82%E3%82%8A/1520358732)
 ### [PRESENCE](https://music.apple.com/cn/album/presence/1682199460)
+<p>
 <img align="left" height="300" title="PRESENCE" src="pic/PRESENCE.png"/>
 
 - [アカトキ](https://music.apple.com/cn/album/%E3%82%A2%E3%82%AB%E3%83%88%E3%82%AD/1682199460?i=1682199737)
@@ -36,13 +37,13 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 - [バニラ](https://music.apple.com/cn/album/%E3%83%90%E3%83%8B%E3%83%A9/1682199460?i=1682199753)
 - [タルヒ](https://music.apple.com/cn/album/%E3%82%BF%E3%83%AB%E3%83%92/1682199460?i=1682199761)
 - [alive](https://music.apple.com/cn/album/alive/1682199460?i=1682199978)
-<br/>
-<br/>
+</p>
 <br/>
 <br/>
 
 ### [ABSENCE](https://music.apple.com/cn/album/absence/1682197773)
-<img align="left" height="300" title="ABSENCE" src="pic/ABSENCE.png">
+<p>
+<img align="left" height="300" title="ABSENCE" src="pic/ABSENCE.png"/>
 </img>
 
 - [僕の見る世界、君の見る世界](https://music.apple.com/cn/album/%E5%83%95%E3%81%AE%E8%A6%8B%E3%82%8B%E4%B8%96%E7%95%8C-%E5%90%9B%E3%81%AE%E8%A6%8B%E3%82%8B%E4%B8%96%E7%95%8C/1682197773?i=1682197784)
@@ -50,10 +51,8 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 - [よりみち](https://music.apple.com/cn/album/%E3%82%88%E3%82%8A%E3%81%BF%E3%81%A1/1682197773?i=1682198166)
 - [narrow](https://music.apple.com/cn/album/narrow/1682197773?i=1682198172)
 - [それを僕は強さと呼びたい](https://music.apple.com/cn/album/%E3%81%9D%E3%82%8C%E3%82%92%E5%83%95%E3%81%AF%E5%BC%B7%E3%81%95%E3%81%A8%E5%91%BC%E3%81%B3%E3%81%9F%E3%81%84/1682197773?i=1682198397)
-<br/>
-<br/>
-<br/>
-<br/>
+</p>
+
 <br/>
 <br/>
 
