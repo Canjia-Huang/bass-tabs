@@ -8,8 +8,8 @@ If there are any other songs you are interested in, please let me know in the is
 Due to my personal preferences, the majority of these tabs are related to J-pop, Britpop songs, or anime songs.
 
 If you utilize the tabs I have personally transcribed to perform and upload to public platforms, I would be most appreciative if you could provide proper attribution and cite me as the source :kissing_heart:.  
-- bilibili: [@JaeF7](https://space.bilibili.com/3041026?spm_id_from=333.1245.0.0)
 - github: [@Canjia-Huang](https://github.com/Canjia-Huang)  
+- bilibili: [@JaeF7](https://space.bilibili.com/3041026?spm_id_from=333.1245.0.0)  
 However, providing attribution is not an absolute requirement, as the copyrights of the musical works do not lie with me.
 
 I hope these tabs will be helpful to you.  
@@ -18,12 +18,12 @@ Simply enjoy the music!
 These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](https://www.guitar-pro.com/) (version 8.0 or a later version) software.
 # Tabs content
 ## :sob: Programming
-- 青春謳歌 - 山根绮 · 羊宫妃那  
-- Sing!Shine!Smile! - Liella!  
-- 音色の彼方 - 北宇治四重奏  
-- おはよう、またあした - 放課後ティータイム  
-- presence - 楠木ともり
-- シンゲツ - 楠木ともり
+- 青春謳歌 - 山根绮 · 羊宫妃那 (20241015)  
+- Sing!Shine!Smile! - Liella! (...)  
+- 音色の彼方 - 北宇治四重奏 (...)  
+- おはよう、またあした - 放課後ティータイム (...)  
+- presence - 楠木ともり (...)  
+- シンゲツ - 楠木ともり (...)  
 ## :heart_eyes: 楠木ともり
 <img align="left" src="pic/ABSENCE.png"/>
 1. 僕の見る世界、君の見る世界  
@@ -39,8 +39,6 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 5. ハミダシモノ  
 6. バニラ  
 7. タルヒ  
-<<<<<<< HEAD
 8. alive  
-=======
-8. alive  
->>>>>>> 4f23cf64a30a47c5027ed6c7142704c68acd5efb
+<img align="left" src="pic/眠れない (feat. 楠木ともり) - Single.png"/>
+<img align="left" src="pic/ハンドメイド流星雨(皐月ソラの場合) - Single.png"/>
