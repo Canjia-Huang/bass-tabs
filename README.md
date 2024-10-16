@@ -27,16 +27,16 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 
 ## :drooling_face: [楠木ともり](https://music.apple.com/cn/artist/%E6%A5%A0%E6%9C%A8%E3%81%A8%E3%82%82%E3%82%8A/1520358732)
 ### [PRESENCE](https://music.apple.com/cn/album/presence/1682199460)
-<img title="PRESENCE" src="pic/PRESENCE.png" height="280" align="left" />
+<img title="PRESENCE" src="pic/PRESENCE.png" height="260" align="left" />
 
-[アカトキ](https://music.apple.com/cn/album/%E3%82%A2%E3%82%AB%E3%83%88%E3%82%AD/1682199460?i=1682199737)\
-[もうひとくち](https://music.apple.com/cn/album/%E3%82%82%E3%81%86%E3%81%B2%E3%81%A8%E3%81%8F%E3%81%A1/1682199460?i=1682199738)\
-[ロマンロン](https://music.apple.com/cn/album/%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%AD%E3%83%B3/1682199460?i=1682199746)\
-[sketchbook (Live ver.)](https://www.youtube.com/watch?v=_dUop5_xOmU)\
-[ハミダシモノ](https://music.apple.com/cn/album/%E3%83%8F%E3%83%9F%E3%83%80%E3%82%B7%E3%83%A2%E3%83%8E/1682199460?i=1682199751)\
-[バニラ](https://music.apple.com/cn/album/%E3%83%90%E3%83%8B%E3%83%A9/1682199460?i=1682199753)\
-[タルヒ](https://music.apple.com/cn/album/%E3%82%BF%E3%83%AB%E3%83%92/1682199460?i=1682199761)\
-[alive](https://music.apple.com/cn/album/alive/1682199460?i=1682199978)
+1. [アカトキ](https://music.apple.com/cn/album/%E3%82%A2%E3%82%AB%E3%83%88%E3%82%AD/1682199460?i=1682199737)
+2. [もうひとくち](https://music.apple.com/cn/album/%E3%82%82%E3%81%86%E3%81%B2%E3%81%A8%E3%81%8F%E3%81%A1/1682199460?i=1682199738)
+3. [ロマンロン](https://music.apple.com/cn/album/%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%AD%E3%83%B3/1682199460?i=1682199746)
+4. [sketchbook (Live ver.)](https://www.youtube.com/watch?v=_dUop5_xOmU)
+5. [ハミダシモノ](https://music.apple.com/cn/album/%E3%83%8F%E3%83%9F%E3%83%80%E3%82%B7%E3%83%A2%E3%83%8E/1682199460?i=1682199751)
+6. [バニラ](https://music.apple.com/cn/album/%E3%83%90%E3%83%8B%E3%83%A9/1682199460?i=1682199753)
+7. [タルヒ](https://music.apple.com/cn/album/%E3%82%BF%E3%83%AB%E3%83%92/1682199460?i=1682199761)
+8. [alive](https://music.apple.com/cn/album/alive/1682199460?i=1682199978)
 <br/>
 <br/>
 <br/>
