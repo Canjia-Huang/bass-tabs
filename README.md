@@ -76,6 +76,18 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 
 </table>
 
+## [Anna Yanami (CV: Hikaru Tono)](https://music.apple.com/cn/artist/anna-yanami-cv-hikaru-tono/1755152293)
+<table>
+<tr>
+<td><img title="LOVE 2000 - Single" src="pic/LOVE 2000 - Single.png" height="300"/></td>
+<td>
+
+[**LOVE 2000 - Single**](https://music.apple.com/cn/album/love-2000/1755152282?i=1755152294)
+1. [LOVE 2000](tabs\Anna%20Yanami%20(CV%20Hikaru%20Tono)\LOVE%202000.gp)[ :musical_note:](https://music.apple.com/cn/album/love-2000/1755152282?i=1755152294)[ :movie_camera:](https://www.bilibili.com/video/BV1GdbcexEB2/)
+</td>
+</tr>
+</table>
+
 ## [Aqours](https://music.apple.com/cn/artist/aqours/1045917820)
 <table>
 <tr>
@@ -301,6 +313,100 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 
 [**バンドリ!「Yes! BanG_Dream!」 - EP**](https://music.apple.com/cn/album/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-yes-bang-dream-ep/1644930228)
 1. [ぽっぴん’しゃっふる](tabs/Poppin'Party/ぽっぴん'しゃっふる.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%81%BD%E3%81%A3%E3%81%B4%E3%82%93%E3%81%97%E3%82%83%E3%81%A3%E3%81%B5%E3%82%8B/1644930228?i=1644930232)
+</td>
+</tr>
+</table>
+
+## [The Beatles](https://music.apple.com/cn/artist/the-beatles/136975)
+<table>
+<tr>
+<td><img title="Abbey Road (2019 Mix)" src="pic/Abbey Road (2019 Mix).png" height="300"/></td>
+<td>
+
+[**Abbey Road (2019 Mix)**](https://music.apple.com/cn/album/abbey-road-2019-mix/1474815798)
+1. [Come Together (2019 Mix)](tabs/The%20Bealtes/Come%20Together.gp)[ :musical_note:](https://music.apple.com/cn/album/come-together-2019-mix/1474815798?i=1474815799)[ :movie_camera:](https://www.bilibili.com/video/BV1Fe411M7B7/)
+2. [Something (2019 Mix)](tabs/The%20Bealtes/Something.gp)[ :musical_note:](https://music.apple.com/cn/album/something-2019-mix/1474815798?i=1474815801)[ :movie_camera:](https://www.bilibili.com/video/BV1S8411t745/)
+3. [Maxwell's Silver Hammer (2019 Mix)](tabs/The%20Bealtes/Maxwell's%20Silver%20Hammer.gp)[ :musical_note:](https://music.apple.com/cn/album/maxwells-silver-hammer-2019-mix/1474815798?i=1474815803)[ :movie_camera:](https://www.bilibili.com/video/BV1ke411F77K/)
+4. [Oh! Darling (2019 Mix)](tabs/The%20Bealtes/Oh!%20Darling.gp)[ :musical_note:](https://music.apple.com/cn/album/oh-darling-2019-mix/1474815798?i=1474815804)[ :movie_camera:](https://www.bilibili.com/video/BV1Dv4y19742/)
+5. [Here Comes the Sun (2019 Mix)](tabs/The%20Bealtes/Here%20Comes%20The%20Sun.gp)[ :musical_note:](https://music.apple.com/cn/album/here-comes-the-sun-2019-mix/1474815798?i=1474815898)[ :movie_camera:](https://www.bilibili.com/video/BV1qc411T7Ld/)
+6. [Sun King (2019 Mix)](tabs/The%20Bealtes/Sun%20King.gp)[ :musical_note:](https://music.apple.com/cn/album/sun-king-2019-mix/1474815798?i=1474815901)[ :movie_camera:](https://www.bilibili.com/video/BV1Br4y1a7N2/)
+</td>
+</tr>
+
+<tr>
+<td><img title="Sgt. Pepper's Lonely Hearts Club Band (Remix)" src="pic/Sgt. Pepper's Lonely Hearts Club Band (Remix).png" height="300"/></td>
+<td>
+
+[**Sgt. Pepper's Lonely Hearts Club Band (Remix)**](https://music.apple.com/cn/album/sgt-peppers-lonely-hearts-club-band-remix/1573250333)
+1. [With a Little Help From My Friends (Remix)](tabs/The%20Bealtes/With%20A%20Little%20Help%20From%20My%20Friends.gp)[ :musical_note:](https://music.apple.com/cn/album/with-a-little-help-from-my-friends-remix/1573250333?i=1573250550)[ :movie_camera:](https://www.bilibili.com/video/BV1Pv4y117Pj/)
+2. [Lovely Rita (Remix)](tabs/The%20Bealtes/Lovely%20Rita.gp)[ :musical_note:](https://music.apple.com/cn/album/lovely-rita-remix/1573250333?i=1573251677)[ :movie_camera:](https://www.bilibili.com/video/BV1n5411Z7kc/)
+</td>
+</tr>
+
+<tr>
+<td><img title="Please Please Me" src="pic/Please Please Me.png" height="300"/></td>
+<td>
+
+[**Please Please Me**](https://music.apple.com/cn/album/please-please-me/1441164816)
+1. [I Saw Her Standing There](tabs/The%20Bealtes/I%20Saw%20Her%20Standing%20There.gp)[ :musical_note:](https://music.apple.com/cn/album/i-saw-her-standing-there/1441164816?i=1441164819)[ :movie_camera:](https://www.bilibili.com/video/BV1q44y1X7Pb/)
+2. [Misery](tabs/The%20Bealtes/Misery.gp)[ :musical_note:](https://music.apple.com/cn/album/misery/1441164816?i=1441164820)[ :movie_camera:](https://www.bilibili.com/video/BV1jS4y1Z7rv/)
+</td>
+</tr>
+
+<tr>
+<td><img title="Let It Be (2021 Super Deluxe)" src="pic/Let It Be (2021 Super Deluxe).png" height="300"/></td>
+<td>
+
+[**Let It Be (2021 Super Deluxe)**](https://music.apple.com/cn/album/let-it-be-2021-super-deluxe/1582541991)
+1. [Let It Be (2021 Mix)](tabs/The%20Bealtes/Let%20It%20Be.gp)[ :musical_note:](https://music.apple.com/cn/album/let-it-be-2021-mix/1582541991?i=1582542896)[ :movie_camera:](https://www.bilibili.com/video/BV1Wa411Z7y6/)
+2. [I've Got a Feeling (2021 Mix)](tabs/The%20Bealtes/I've%20Got%20A%20Feeling.gp)[ :musical_note:](https://music.apple.com/cn/album/ive-got-a-feeling-2021-mix/1582541991?i=1582543522)[ :movie_camera:](https://www.bilibili.com/video/BV1US4y1S7dQ/)
+</td>
+</tr>
+
+<tr>
+<td><img title="Magical Mystery Tour" src="pic/Magical Mystery Tour.png" height="300"/></td>
+<td>
+
+[**Magical Mystery Tour**](https://music.apple.com/cn/album/magical-mystery-tour/1441163490)
+1. [Hello, Goodbye](tabs/The%20Bealtes/Hello,%20Goodbye.gp)[ :musical_note:](https://music.apple.com/cn/album/hello-goodbye/1441163490?i=1441163755)[ :movie_camera:](https://www.bilibili.com/video/BV1xb4y1p7G5/)
+</td>
+</tr>
+
+<tr>
+<td><img title="With The Beatles" src="pic/With The Beatles.png" height="300"/></td>
+<td>
+
+[**With The Beatles**](https://music.apple.com/cn/album/with-the-beatles/1441164362)
+1. [All My Loving](tabs/The%20Bealtes/All%20My%20Loving.gp)[ :musical_note:](https://music.apple.com/cn/album/all-my-loving/1441164362?i=1441164625)[ :movie_camera:](https://www.bilibili.com/video/BV1nT4y1S7fW/)
+</td>
+</tr>
+
+<tr>
+<td><img title="The Beatles (The White Album)" src="pic/The Beatles (The White Album).png" height="300"/></td>
+<td>
+
+[**The Beatles (The White Album)**](https://music.apple.com/cn/album/piggies/1441133180?i=1441133850)
+1. [I'm So Tired](tabs/The%20Bealtes/Im%20So%20Tired.gp)[ :musical_note:](https://music.apple.com/cn/album/im-so-tired/1441133180?i=1441133702)[ :movie_camera:](https://www.bilibili.com/video/BV1hu41117TC/)
+2. [Sexy Sadie](tabs/The%20Bealtes/Sexy%20Sadie.gp)[ :musical_note:](https://music.apple.com/cn/album/sexy-sadie/1441133180?i=1441134198)[ :movie_camera:](https://www.bilibili.com/video/BV1PL4y1G7JK/)
+</td>
+</tr>
+
+<tr>
+<td><img title="Rubber Soul" src="pic/Rubber Soul.png" height="300"/></td>
+<td>
+
+[**Rubber Soul**](https://music.apple.com/cn/album/michelle/1441164359?i=1441164629)
+1. [You Won't See Me](tabs/The%20Bealtes/You%20Won't%20See%20Me.gp)[ :musical_note:](https://music.apple.com/cn/album/you-wont-see-me/1441164359?i=1441164612)[ :movie_camera:](https://www.bilibili.com/video/BV1x44y1s7aC/)
+2. [In My Life](tabs/The%20Bealtes/In%20My%20Life.gp)[ :musical_note:](https://music.apple.com/cn/album/in-my-life/1441164359?i=1441164829)[ :movie_camera:](https://www.bilibili.com/video/BV1xa411m7Fn/)
+</td>
+</tr>
+
+<tr>
+<td><img title="Beatles For Sale" src="pic/Beatles For Sale.png" height="300"/></td>
+<td>
+
+[**Beatles For Sale**](https://music.apple.com/cn/album/babys-in-black/1441165005?i=1441165093)
+1. [Honey Don't](tabs/The%20Bealtes/Honey%20Dont.gp)[ :musical_note:](https://music.apple.com/cn/album/honey-dont/1441165005?i=1441165102)[ :movie_camera:](https://www.bilibili.com/video/BV1K3411h7QM/)
 </td>
 </tr>
 </table>
