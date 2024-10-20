@@ -463,7 +463,7 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 <td>
 
 [**Love**](https://music.apple.com/cn/album/love/1441133389)
-1. [Hey Jude（Love ver. solo）](tabs/The%20Bealtes/Hey%20Jude（Love%20ver.%20solo）.gp)[ :musical_note:](https://music.apple.com/cn/album/hey-jude/1441133389?i=1441133861)
+1. [Hey Jude（Love ver. solo）](tabs/The%20Bealtes/Hey%20Jude（Love%20ver.%20solo）.gp)[ :musical_note:](https://music.apple.com/cn/album/hey-jude/1441133389?i=1441133861)[ :movie_camera:](https://www.bilibili.com/video/BV1RA411o7w2/)
 </td>
 </tr>
 
@@ -471,7 +471,7 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 <td></td>
 <td>
 
-1. [Hey Jude（2012伦敦奥运会ver）](tabs/The%20Bealtes/Hey%20Jude（2012伦敦奥运会ver）.gp)[ :musical_note:](https://www.youtube.com/watch?v=azZZZbSwLQg)
+1. [Hey Jude（2012伦敦奥运会ver）](tabs/The%20Bealtes/Hey%20Jude（2012伦敦奥运会ver）.gp)[ :musical_note:](https://www.youtube.com/watch?v=azZZZbSwLQg)[ :movie_camera:](https://www.bilibili.com/video/BV1qA411o7K5/)
 </td>
 </tr>
 </table>
