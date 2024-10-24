@@ -21,6 +21,7 @@ Simply enjoy the music!
 These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](https://www.guitar-pro.com/) (version 8.0 or a later version) software.
 # Tab Contents
 ## Programming :sob:
+- Jealous of Cats - 爱缪 (2024.10.23)
 - 青春謳歌 - 山根绮 · 羊宫妃那 (2024.10.15)  
 - Sing!Shine!Smile! - Liella! (...)  
 - 音色の彼方 - 北宇治四重奏 (...)  
@@ -76,6 +77,18 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 </td>
 </tr>
 
+</table>
+
+## [爱缪](https://music.apple.com/cn/artist/%E7%88%B1%E7%BC%AA/1165017710)
+<table>
+<tr>
+<td><img title="Jealous of Cats" src="pic/Jealous of Cats.png" height="300"/></td>
+<td>
+
+[**Jealous of Cats**](https://music.apple.com/cn/album/jealous-of-cats/1753269545?i=1753270236)
+1. Jealous of Cats[ :musical_note:](https://music.apple.com/cn/album/jealous-of-cats/1753269545?i=1753270236)
+</td>
+</tr>
 </table>
 
 ## [Anna Yanami (CV: Hikaru Tono)](https://music.apple.com/cn/artist/anna-yanami-cv-hikaru-tono/1755152293)
