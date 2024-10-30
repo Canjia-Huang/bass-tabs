@@ -84,8 +84,8 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 <td><img title="Jealous of Cats" src="pic/Jealous of Cats.png" height="300"/></td>
 <td>
 
-[**Jealous of Cats**](https://music.apple.com/cn/album/jealous-of-cats/1753269545?i=1753270236)
-1. [Jealous of Cats](tabs\爱缪\Jealous%20of%20Cats.gp)[ :musical_note:](https://music.apple.com/cn/album/jealous-of-cats/1753269545?i=1753270236)
+[**Jealous of Cats**](https://music.apple.com/cn/album/jealous-of-cats/1753269545)
+1. [Jealous of Cats](tabs/爱缪/Jealous%20of%20Cats.gp)[ :musical_note:](https://music.apple.com/cn/album/jealous-of-cats/1753269545?i=1753270236)
 </td>
 </tr>
 </table>
@@ -97,7 +97,7 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 <td>
 
 [**LOVE 2000 - Single**](https://music.apple.com/cn/album/love-2000/1755152282?i=1755152294)
-1. [LOVE 2000](tabs\Anna%20Yanami%20(CV%20Hikaru%20Tono)\LOVE%202000.gp)[ :musical_note:](https://music.apple.com/cn/album/love-2000/1755152282?i=1755152294)[ :movie_camera:](https://www.bilibili.com/video/BV1GdbcexEB2/)
+1. [LOVE 2000](tabs/Anna%20Yanami%20(CV%20Hikaru%20Tono)/LOVE%202000.gp)[ :musical_note:](https://music.apple.com/cn/album/love-2000/1755152282?i=1755152294)[ :movie_camera:](https://www.bilibili.com/video/BV1GdbcexEB2/)
 </td>
 </tr>
 </table>
