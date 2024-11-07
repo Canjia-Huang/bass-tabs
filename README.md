@@ -36,7 +36,7 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 <td>
 
 [**吐露**](https://music.apple.com/cn/album/%E5%90%90%E9%9C%B2/1771799888)
-1. [NoTE](tabs/楠木ともり/吐露.gp)[ :musical_note:](https://music.apple.com/cn/album/note/1771799888?i=1771799891)
+1. [NoTE](tabs/楠木ともり/NoTE.gp)[ :musical_note:](https://music.apple.com/cn/album/note/1771799888?i=1771799891)
 </td>
 </tr>
 
