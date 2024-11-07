@@ -21,6 +21,7 @@ Simply enjoy the music!
 These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](https://www.guitar-pro.com/) (version 8.0 or a later version) software.
 # Tab Contents
 ## Programming :sob:
+- NoTE - 楠木ともり (2024.11.07)
 - 青春謳歌 - 山根绮 · 羊宫妃那 (2024.10.15)  
 - Sing!Shine!Smile! - Liella! (...)  
 - 音色の彼方 - 北宇治四重奏 (...)  
@@ -31,11 +32,20 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 ## [楠木ともり](https://music.apple.com/cn/artist/%E6%A5%A0%E6%9C%A8%E3%81%A8%E3%82%82%E3%82%8A/1520358732) :drooling_face:
 <table> 
 <tr>
+<td><img title="PRESENCE" src="pic/吐露.png" height="300"/></td>
+<td>
+
+[**吐露**](https://music.apple.com/cn/album/%E5%90%90%E9%9C%B2/1771799888)
+1. [NoTE](tabs/楠木ともり/吐露.gp)[ :musical_note:](https://music.apple.com/cn/album/note/1771799888?i=1771799891)
+</td>
+</tr>
+
+<tr>
 <td><img title="PRESENCE" src="pic/PRESENCE.png" height="300"/></td>
 <td>
 
 [**PRESENCE**](https://music.apple.com/cn/album/presence/1682199460)
-1. [アカトキ](tabs/楠木ともり/アカトキ.gp) [ :musical_note:](https://music.apple.com/cn/album/%E3%82%A2%E3%82%AB%E3%83%88%E3%82%AD/1682199460?i=1682199737)[ :movie_camera:](https://www.bilibili.com/video/BV1HY4y1m7n4/)
+1. [アカトキ](tabs/楠木ともり/アカトキ.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%82%A2%E3%82%AB%E3%83%88%E3%82%AD/1682199460?i=1682199737)[ :movie_camera:](https://www.bilibili.com/video/BV1HY4y1m7n4/)
 2. [もうひとくち](tabs/楠木ともり/もうひとくち.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%82%82%E3%81%86%E3%81%B2%E3%81%A8%E3%81%8F%E3%81%A1/1682199460?i=1682199738)[ :movie_camera:](https://www.bilibili.com/video/BV1C6421G76j/)
 3. [ロマンロン](tabs/楠木ともり/ロマンロン.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%AD%E3%83%B3/1682199460?i=1682199746)[ :movie_camera:](https://www.bilibili.com/video/BV1vJ4m1J7Fw/)
 4. [sketchbook (Live ver.)](tabs/楠木ともり/sketchbook%20(Live%20ver.).gp)[ :musical_note:](https://www.youtube.com/watch?v=_dUop5_xOmU)[ :movie_camera:](https://www.bilibili.com/video/BV1JH4y167GC/)
@@ -43,6 +53,7 @@ These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](h
 6. [バニラ](tabs/楠木ともり/バニラ.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%83%90%E3%83%8B%E3%83%A9/1682199460?i=1682199753)[ :movie_camera:](https://www.bilibili.com/video/BV11h4y1W7kD/)
 7. [タルヒ](tabs/楠木ともり/タルヒ.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%82%BF%E3%83%AB%E3%83%92/1682199460?i=1682199761)[ :movie_camera:](https://www.bilibili.com/video/BV1gh4y187zB/)
 8. [alive](tabs/楠木ともり/alive.gp)[ :musical_note:](https://music.apple.com/cn/album/alive/1682199460?i=1682199978)[ :movie_camera:](https://www.bilibili.com/video/BV1gk4y1F7aC/)
+</td>
 </tr>
 
 <tr>
