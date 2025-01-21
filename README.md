@@ -21,6 +21,7 @@ Simply enjoy the music!
 These tabs are all in the `.gp` format, which can be opened using [Guitar Pro](https://www.guitar-pro.com/) (version 8.0 or a later version) software.
 # Tab Contents
 ## Programming :sob:
+- あんたなんて。 - りりあ。 (2025.01.21)
 - NoTE - 楠木ともり (2024.11.07)
 - 青春謳歌 - 山根绮 · 羊宫妃那 (2024.10.15)  
 - Sing!Shine!Smile! - Liella! (...)  
