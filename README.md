@@ -78,7 +78,7 @@ Please refer to the [issue](https://github.com/Canjia-Huang/bass-tabs/issues) pa
 <tr><td><img title="Jealous of Cats" src="pic/Jealous of Cats.png" height="100"/></td><td>
 
 [**Jealous of Cats**](https://music.apple.com/cn/album/jealous-of-cats/1753269545)
-1. [Jealous of Cats](tabs/爱缪/Jealous%20of%20Cats.gp)[ :musical_note:](https://music.apple.com/cn/album/jealous-of-cats/1753269545?i=1753270236)
+1. [Jealous of Cats](tabs/爱缪/Jealous%20of%20Cats.gp)[ :musical_note:](https://music.apple.com/cn/album/jealous-of-cats/1753269545?i=1753270236)[ :movie_camera:](https://www.bilibili.com/video/BV18HTuzyE4d/?spm_id_from=444.41.list.card_archive.click&vd_source=415b9125e86683d46308bbb48106c50a)
 </td></tr>
 </table>
 
