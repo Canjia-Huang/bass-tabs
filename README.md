@@ -124,6 +124,22 @@ Please refer to the [issue](https://github.com/Canjia-Huang/bass-tabs/issues) pa
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
+## [Cory Wong](https://music.apple.com/cn/artist/cory-wong/1277188895)
+<table>
+<tr><td><img title="Turbo" src="pic/Turbo.png" height="100"/></td><td>
+
+[**Turbo**](https://music.apple.com/cn/album/turbo/1580465347)
+1. [Turbo](tabs/Cory%20Wong/Turbo.gp)[ :musical_note:](https://music.apple.com/cn/song/turbo/1580465351)
+</td></tr>
+<tr><td><img title="Motivational Music for the Syncopated Soul" src="pic/Motivational_Music_for_the_Syncopated Soul.png" height="100"/></td><td>
+
+[**Motivational Music for the Syncopated Soul**](https://music.apple.com/cn/album/cosmic-sans-feat-tom-misch/1467776421?i=1467776425)
+1. [Cosmic Sans (feat. Tom Misch)](tabs/Cory%20Wong/Cosmic%20Sans.gp)[ :musical_note:](https://music.apple.com/cn/song/cosmic-sans-feat-tom-misch/1467776425)
+</td></tr>
+</table>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
 ## [kessoku band](https://music.apple.com/cn/artist/kessoku-band/1646020674) :star:
 <table>
 <tr><td><img title="結束バンド" src="pic/結束バンド.png" height="100"/></td><td>
