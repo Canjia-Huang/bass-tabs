@@ -41,7 +41,7 @@ Please refer to the [issue](https://github.com/Canjia-Huang/bass-tabs/issues) pa
 2. [もうひとくち](tabs/楠木ともり/もうひとくち.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%82%82%E3%81%86%E3%81%B2%E3%81%A8%E3%81%8F%E3%81%A1/1682199460?i=1682199738)[ :movie_camera:](https://www.bilibili.com/video/BV1C6421G76j/)
 3. [ロマンロン](tabs/楠木ともり/ロマンロン.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%AD%E3%83%B3/1682199460?i=1682199746)[ :movie_camera:](https://www.bilibili.com/video/BV1vJ4m1J7Fw/)
 4. [sketchbook (Live ver.)](tabs/楠木ともり/sketchbook%20(Live%20ver.).gp)[ :musical_note:](https://www.youtube.com/watch?v=_dUop5_xOmU)[ :movie_camera:](https://www.bilibili.com/video/BV1JH4y167GC/)
-5. [ハミダシモノ](tabs/楠木ともり/ハミダシモノ.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%83%8F%E3%83%9F%E3%83%80%E3%82%B7%E3%83%A2%E3%83%8E/1682199460?i=1682199751)
+5. [ハミダシモノ](tabs/楠木ともり/ハミダシモノ.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%83%8F%E3%83%9F%E3%83%80%E3%82%B7%E3%83%A2%E3%83%8E/1682199460?i=1682199751)[ :movie_camera:](https://www.bilibili.com/video/BV1GJY7zuEa7/?vd_source=415b9125e86683d46308bbb48106c50a)
 6. [バニラ](tabs/楠木ともり/バニラ.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%83%90%E3%83%8B%E3%83%A9/1682199460?i=1682199753)[ :movie_camera:](https://www.bilibili.com/video/BV11h4y1W7kD/)
 7. [タルヒ](tabs/楠木ともり/タルヒ.gp)[ :musical_note:](https://music.apple.com/cn/album/%E3%82%BF%E3%83%AB%E3%83%92/1682199460?i=1682199761)[ :movie_camera:](https://www.bilibili.com/video/BV1gh4y187zB/)
 8. [alive](tabs/楠木ともり/alive.gp)[ :musical_note:](https://music.apple.com/cn/album/alive/1682199460?i=1682199978)[ :movie_camera:](https://www.bilibili.com/video/BV1gk4y1F7aC/)
